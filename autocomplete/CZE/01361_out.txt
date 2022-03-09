@@ -1,0 +1,6 @@
+Casto hledane fraze:
+Hledani:
+Nalezeno: 0
+Nalezeno: 0
+Nalezeno: 1
+> abcdef

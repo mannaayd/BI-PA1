@@ -1,0 +1,10 @@
+Zadejte pocet nadrzi:
+Zadejte parametry nadrzi:
+Zadejte objem vody:
+h = 489.847745
+h = 489.733061
+h = 489.745921
+h = 489.731710
+h = 489.731635
+h = 489.758207
+h = 489.731623

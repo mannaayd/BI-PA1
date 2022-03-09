@@ -1,0 +1,4 @@
+Velikost:
+Maximalni plocha:
+Rezu: 0
+[13,17]
