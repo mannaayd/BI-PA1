@@ -1,3 +1,3 @@
 # BI-PA1
 
-Homeworks from LS 19/20
+Homeworks from ZS 19/20
